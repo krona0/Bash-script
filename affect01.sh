@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# 用于测试一些新功能
+
 arr_linux=('I' 'love' 'you' 'Linux')
 
 while true; do

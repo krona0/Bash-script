@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# [---####-------------]
+# 一个像xp电脑开机时一样的加载进度条
+
 total=16
 
 while true; do
